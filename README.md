@@ -151,7 +151,8 @@ $ cd latihan1``
 
 
 ### Author : Muhammad Rizky Abdillah
-![giphy-preview](https://user-images.githubusercontent.com/66506609/96253867-8bf24980-0fde-11eb-841c-8b8a6ba0171f.gif)
+
+![giphy](https://user-images.githubusercontent.com/66506609/96348807-a78c4b80-10d5-11eb-938f-cc36c9485771.gif)
 
 
 
